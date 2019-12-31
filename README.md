@@ -78,7 +78,7 @@ can have your code accessible later.
 
 ```
 git add .
-git commit -m 'started real-estate-listings.html'
+git commit -m 'added links to all pages'
 git push
 ```
 
